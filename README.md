@@ -22,7 +22,7 @@ Node packages weren't used in this project, so no installation is required.
 
 To use the application, all you need is to input you task, habit, event etc, based on what time you want it to start. The text within the middle columns will be saved and the colored columns as time passed by will be shown. 
 
-![alt text](public/Challenge_05-Workday-Scheduler.jpg)
+![screenshot](public/Challenge_05-Workday-Scheduler.jpg)
 
 ## License
 
@@ -53,7 +53,7 @@ For more information, please refer to <https://unlicense.org>
 
 ## Contribution
 
-Best ways to contribute will be to comment on my code to suggest how this application can be improved and collaborate to create a seemless app to improve on in small increments. 
+Best way to contribute will be to comment on the code to suggest how this application can be improved and collaborate to create a seemless app to improve upon.
 
 ## Future Development
 
