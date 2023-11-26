@@ -24,6 +24,8 @@ To use the application, all you need is to input you task, habit, event etc, bas
 
 ![screenshot](public/Challenge_05-Workday-Scheduler.jpg)
 
+![Deployed Website](https://crlsedlt42.github.io/challenge_05_Workday.Scheduler/)
+
 ## License
 
 This is free and unencumbered software released into the public domain.
